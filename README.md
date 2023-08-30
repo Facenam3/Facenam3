@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Dalibor
-- I'm 26 years old
-- 👀 I’m interested in FrontEnd Developer Career
-- 🌱 I’m currently learning Javascript
+- 👋 Hi There
+- I’m Dalibor
+- I'm 28 years old
+- 👀 I’m interested in Fullstack Developer Career
+- 🌱 I’m currently learning Node.js Express and Moongoose
 - 📫 You can reach me via email or some social media
 - email: dalibor.jovanov2k1@gmail.com
 
